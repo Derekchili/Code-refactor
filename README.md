@@ -5,7 +5,7 @@
 Got the code and was able to change the div tags to semantic elements. Cleaned up the CSS code to be more streamline. Made sure all the link tags would navigate to the right area of the page. Removed the class tags on the div tags once I made them semantic.
 
 - What was your motivation?
-  Wanted to do as much as I could on my own before asking a tutor for help, only needed a few things with him.
+  Wanted to do as much as I could on my own before asking a tutor for help, only needed a few things with him. The tutors name is Andres Jimenez he was very helpful in explaining things that you can change.
 - Why did you build this project?
   I wanted to make sure I could read the code and change it to what it should be to read more clean.
 - What problem does it solve?
@@ -37,7 +37,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-One of the students gave me a good idea on how to change and consolidate the code to look better. Can't remember her name, but that got me started in the write direction. And I was able to help a few people go in the right direction as well without doing it for them.
+One of the students gave me a good idea on how to change and consolidate the code to look better. Can't remember her name, but that got me started in the write direction. And I was able to help a few people go in the right direction as well without doing it for them. Andres Jimenez tutor who helped me polish the last few things on the HW.
 
 ## License
 
